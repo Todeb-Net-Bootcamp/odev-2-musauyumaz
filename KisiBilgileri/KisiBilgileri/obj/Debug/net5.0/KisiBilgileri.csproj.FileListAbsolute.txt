@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.exe
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.deps.json
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.runtimeconfig.json
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.runtimeconfig.dev.json
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.dll
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\bin\Debug\net5.0\KisiBilgileri.pdb
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.AssemblyInfo.cs
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.dll
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\refint\KisiBilgileri.dll
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.pdb
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\KisiBilgileri.genruntimeconfig.cache
+C:\Users\musau\Desktop\Todeb\KisiBilgileri\KisiBilgileri\obj\Debug\net5.0\ref\KisiBilgileri.dll
